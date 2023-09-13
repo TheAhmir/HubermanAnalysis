@@ -1,0 +1,10 @@
+pandas
+beautifulsoup4
+matplotlib
+pyyaml
+lxml
+requests
+selenium
+fake-useragent
+tqdm
+pyarrow
