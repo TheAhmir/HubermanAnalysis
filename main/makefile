@@ -2,7 +2,7 @@ all: create_env setup download_driver install_driver
 
 PHONY: create_env
 
-DRIVER_URL_LINUX = "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/linux64/chromedriver-linux64.zip"
+DRIVER_URL_LINUX = "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.62/linux64/chromedriver-linux64.zip"
 DRIVER_NAME = "chromedriver.zip"
 VENV := .venv
 
