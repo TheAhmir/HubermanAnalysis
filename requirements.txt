@@ -1,0 +1,14 @@
+pandas
+numpy
+spacy
+displacy
+networkx
+matplotlib.pyplot
+re
+community (from python-louvain)
+statistics
+nltk
+textblob
+pyvis
+
+* I also include any installations at the top of each of my notebooks
