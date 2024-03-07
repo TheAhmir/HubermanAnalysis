@@ -32,7 +32,9 @@ This plot depics the top 10 videos by view count from left to right with the y-a
 This plot had an expected result. The videos with more views seem to get more comments.
 
 ## PyVis Network
-[PyVis html Network of Topic Analysis with node size based on View Count](https://dl.dropboxusercontent.com/scl/fi/60z6nmqt9u17wluqrl4xt/topic_analyses_communities-size_by_views.html?rlkey=rrhcy0mrvneuxjvtdhpxdb2vh&raw=1)
+<a href="[https://github.com/TheAhmir/](https://theahmir.github.io/HubermanAnalysis/visualizations/topic_analyses_communities(size_by_views).html)">
+  <img src="https://github.com/TheAhmir/HubermanAnalysis/assets/100968856/6f84306b-8bef-4093-9aea-3a68d06fa22e"/>
+</a>
 
 I believe this was the best way for me to visualize the different communities of relationships within the data. I felt it offered an interesting look into how topics and view count interact within my data.
 
