@@ -1,5 +1,5 @@
 # HubermanAnalysis
-<img src="https://hubermanlab.com/wp-content/uploads/2021/05/Huberman-Lab-Podcast-Intro-1920x1080-1-1080x608.jpeg">
+<img src="https://github.com/TheAhmir/HubermanAnalysis/assets/100968856/782ca0ff-aba5-4d94-9c42-c226fe97c4bf">
 
 ## Scatterplot
 <img width="707" alt="Screenshot 2023-09-25 at 3 36 54 AM" src="https://github.com/TheAhmir/HubermanAnalysis/assets/100968856/383c4e78-74a1-4936-adfd-51ca5b103194">
@@ -32,7 +32,7 @@ This plot depics the top 10 videos by view count from left to right with the y-a
 This plot had an expected result. The videos with more views seem to get more comments.
 
 ## PyVis Network
-<a href="[https://github.com/TheAhmir/](https://theahmir.github.io/HubermanAnalysis/visualizations/topic_analyses_communities(size_by_views).html)">
+<a href="https://theahmir.github.io/HubermanAnalysis/visualizations/topic_analyses_communities(size_by_views).html">
   <img src="https://github.com/TheAhmir/HubermanAnalysis/assets/100968856/6f84306b-8bef-4093-9aea-3a68d06fa22e"/>
 </a>
 
